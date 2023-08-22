@@ -1,3 +1,8 @@
+Preview:
+
+![Preview](https://github.com/mjunaidshaikh128/angularAssignment/assets/115004219/54d84e5c-64e9-4f96-af2b-8c270bf9f293)
+
+
 # AngularAssignment
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
